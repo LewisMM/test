@@ -1,3 +1,2 @@
 # test
-Just a test.
-Do not adjust your set.
+This is just a test.
